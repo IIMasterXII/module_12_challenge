@@ -1,2 +1,4 @@
-# module_12_challenge
-Module 12 Challenge
+# React Personal Website
+
+This is a Personal Website made entirely in React.
+It includes an About Me, Portfolio, Resume, and Contact section.

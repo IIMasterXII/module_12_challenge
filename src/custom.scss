@@ -1,0 +1,10 @@
+// Import Bootstrap functions & variables
+@import "node_modules/bootstrap/scss/functions";
+@import "node_modules/bootstrap/scss/variables";
+
+// Override Bootstrap color variables
+$primary: #ff5733;  // Custom primary color (change to any hex code)
+$danger: #d63384;
+
+// Import Bootstrap with new colors
+@import "node_modules/bootstrap/scss/bootstrap";

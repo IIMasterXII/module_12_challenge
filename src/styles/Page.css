@@ -1,0 +1,50 @@
+.bg-dark {
+    background-color: #463F3A !important;
+}
+
+.text-pretty {
+    font-family: "Josefin Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight:700;
+}
+
+html, #root {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    height:100vh;
+}
+
+#root {
+    display: flex;
+    flex-direction:column;
+}
+
+.content {
+    flex: 1;
+}
+
+.btn-primary{
+    background-color: #FE5F55 !important;
+}
+
+.error-text{
+    color: #FE5F55 !important;
+}
+
+.about-icon {
+    font-size:250px;
+}
+
+.resume-icon {
+    font-size:250px;
+}
+
+.resume-link:hover {
+    color: #FE5F55 !important;
+    transition: color .1s ease-in;
+    cursor:pointer;
+}

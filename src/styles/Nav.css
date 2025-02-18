@@ -1,0 +1,21 @@
+.nav-link {
+  color: #463F3A !important; /* Custom color */
+}
+  
+.nav-link:hover {
+  color: #ffffff !important; /* Change color on hover */
+}
+
+.nav-link.active {
+  color: #ffffff !important; /* Change color on hover */
+}
+
+.bg-primary {
+    background-color: #FE5F55 !important;
+}
+
+.text-pretty {
+  font-family: "Josefin Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
